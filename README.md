@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://thumbs.dreamstime.com/b/python-programming-colorful-plexus-design-python-language-programming-banner-colorful-plexus-design-software-technology-166200238.jpg)
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
